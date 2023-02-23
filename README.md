@@ -1,4 +1,4 @@
-# implementing Deep Neural Network using Keras for the Fashion MNIST dataset
+# Implementing Deep Neural Network using Keras for the Fashion MNIST dataset
 
 This code is a simple implementation of a deep neural network using Keras for the Fashion MNIST dataset. It involves the following steps:
 
