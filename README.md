@@ -20,7 +20,7 @@ The next step is to create a neural network model. In this case, a 3-layer neura
 
 This is a simple representation of our model:
 
-![Neural Network Representation (Neural Network Representation.png)
+![Neural Network Representation (./Neural Network Representation.png)
 
 
 ## Compile Model
