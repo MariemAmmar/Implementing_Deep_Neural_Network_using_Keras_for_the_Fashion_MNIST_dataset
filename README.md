@@ -17,6 +17,12 @@ The first 25 images of the training set are displayed as a sample using the matp
 ## Create Model
 The next step is to create a neural network model. In this case, a 3-layer neural network model is created. The first layer is the input layer, the second layer is the hidden layer, and the third layer is the output layer. The keras.Sequential() function is used to stack these layers.
 
+
+This is a simple representation of our model:
+
+![Neural NEtwork Representation (https://github.com/MariemAmmar/Implementing_Deep_Neural_Network_using_Keras_for_the_Fashion_MNIST_dataset/blob/main/Neural%20Network%20Representation.png)
+
+
 ## Compile Model
 After creating the model, it needs to be compiled. This involves specifying the optimizer, loss function and metrics. In this case, the adam optimizer, sparse_categorical_crossentropy loss function and accuracy metric are used.
 
