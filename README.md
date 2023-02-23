@@ -20,7 +20,7 @@ The next step is to create a neural network model. In this case, a 3-layer neura
 
 This is a simple representation of our model:
 
-![Add files via upload](Neural Network Representation.png)
+![Repre](https://raw.githubusercontent.com/MariemAmmar/Implementing_Deep_Neural_Network_using_Keras_for_the_Fashion_MNIST_dataset/main/Neural%20Network%20Representation.png)
 
 
 ## Compile Model
